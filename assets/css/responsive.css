@@ -1,0 +1,25 @@
+
+
+@media all and (max-width: 960px) {
+	/* =========== 1. Header Area Start =========== */
+	.logo-area {
+		text-align: center;
+	}
+	.menu-area ul {
+		text-align: center;
+	}
+	/* =========== Header Area End =========== */
+}
+
+@media all and (max-width: 700px) {
+	/* =========== 1. Header Area Start =========== */
+	.menu-area ul li {
+		display: block;
+		margin: 10px 0;
+	}
+	.menu-area ul li a {
+		display: block;
+	}
+	/* =========== Header Area End =========== */
+}
+
